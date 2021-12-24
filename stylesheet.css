@@ -1,7 +1,7 @@
 @media(max-width:670px){
     .slider {
-        width: 200px;
-        height: 355px;
+        width: 100px;
+        height: 177px;
         position:fixed;
         right:0;
         overflow: hidden;
@@ -36,7 +36,7 @@
     #header{
         position:fixed;
         top:30%;
-        left:10%;
+        left:5%;
         font-family:'Caveat',cursive;
         text-align:center;
         font-size:35px;
@@ -58,9 +58,9 @@
     .main{
         position:fixed;
         top:30%;
-        left:20%;
-        height:355px;
-        width:200px;    }
+        left:15%;
+        height:177px;
+        width:100px;    }
     #imgs{
         display:none;
         width:100%;
